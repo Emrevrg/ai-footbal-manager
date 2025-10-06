@@ -1,0 +1,5 @@
+{
+  "name": "AI Football Coach",
+  "description": "An advanced AI-powered football coaching platform to manage your team, generate strategies, and design custom jerseys. Define player strengths and weaknesses, get tactical advice against opponents, and visualize formations. Features a 2D/3D jersey designer with AI generation capabilities.",
+  "requestFramePermissions": []
+}
